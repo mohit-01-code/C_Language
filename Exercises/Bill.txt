@@ -1,0 +1,1 @@
+Thanks {{Name}} for purchasing {{item}} of Rs. {{cost}} from {{outlet}} outelt. Your payment done successfully by {{pay.mode}} on {{Time}} {{Date}}. Please visit {{outlet}} outlet again.

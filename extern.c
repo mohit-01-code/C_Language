@@ -1,0 +1,1 @@
+int e=8;//to use this variable storage.c file for extern keyword to use external variable
